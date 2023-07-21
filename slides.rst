@@ -97,6 +97,15 @@ Box-Type Solar Oven
 
 ----
 
+Odeillo solar furnace
+=============================
+
+.. image:: ./assets/images/Four_solaire_001.jpg
+
+https://en.wikipedia.org/wiki/Odeillo_solar_furnace
+
+----
+
 Reflectors
 ===================
 
