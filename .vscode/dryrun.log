@@ -1,0 +1,10 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/hrk/_HACKERSANDDESIGNERS/Presentations/solarpunks'
+echo ""
+echo "--Help Menu"
+echo ""
+echo "1. make html"
+echo "2. make dist"
+echo "3. make clean"
+make: Leaving directory `/Users/hrk/_HACKERSANDDESIGNERS/Presentations/solarpunks'
+ 
